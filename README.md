@@ -335,5 +335,3 @@ Authorization: Bearer <YOUR_TOKEN>
 * **Laravel 12**
 * **Laravel Sanctum** (Auth)
 * **MySQL**
-
-```
