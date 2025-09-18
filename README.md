@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/Project-Booking%20System-blue" alt="Project"></a>
-<a href="#"><img src="https://img.shields.io/badge/Laravel-10-red" alt="Laravel"></a>
+<a href="#"><img src="https://img.shields.io/badge/Laravel-12-red" alt="Laravel"></a>
 <a href="#"><img src="https://img.shields.io/badge/Database-MySQL-green" alt="Database"></a>
 </p>
 
