@@ -17,8 +17,8 @@
 
 1. **انسخ المشروع**
 ```bash
-git clone https://github.com/USERNAME/REPO-NAME.git
-cd REPO-NAME
+git clone https://github.com/nada-khaled30/booking_system.git
+cd booking_system
 ````
 
 2. **ثبت الـ dependencies**
@@ -332,12 +332,10 @@ Authorization: Bearer <YOUR_TOKEN>
 
 ## 🛠️ Tools
 
-* **Laravel 10**
+* **Laravel 12**
 * **Laravel Sanctum** (Auth)
 * **MySQL**
 
 ```
 
----
-تحبي أعمله؟
 ```
