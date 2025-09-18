@@ -337,5 +337,3 @@ Authorization: Bearer <YOUR_TOKEN>
 * **MySQL**
 
 ```
-
-```
